@@ -1,0 +1,37 @@
+body {
+	background-image: url("../bg.png");
+	background-size: 100%;
+	color: #663366;
+}
+
+#display {
+	background-color: white;
+	opacity: 0.8;
+	border: 1px solid black;
+}
+
+#msg {
+	color: #FF0000;
+}
+
+#theword {
+	font-family: "Courier New", Courier, monospace; 
+	font-size: 16px;
+}
+
+#letters {
+	font-family: Georgia, serif;
+	color: blue;
+	font-weight:bold;
+	
+}
+
+#letters a:link {
+	color: #red;
+}
+
+button{
+	width: 5%;
+	height: 3.8em;
+	margin-bottom: 0.7em;
+}
